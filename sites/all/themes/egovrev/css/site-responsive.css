@@ -1,0 +1,973 @@
+@media all and (min-width: 941px) {
+    .menu-name-main-menu>#nav {
+        display: block !important
+    }
+}
+
+@media all and (max-width: 1200px) {
+    .nav-wrapper ul li a {
+        padding: 0 16px !important;
+    }
+    .external-link span {
+        display: block;
+        padding: 6px 72px 3px 0;
+        background-size: contain !important;
+    }
+    .banner-wrapper .flex-direction-nav {
+        right: 8.4%;
+    }
+    ul.quicklinks li {
+        background-position: 0 12px;
+    }
+    ul.quicklinks li a {
+        line-height: 35px;
+        font-size: 15px;
+    }
+    .otherLink img {
+        height: inherit;
+    }
+    .vs-small {
+        display: block;
+    }
+    .vs-large {
+        display: none;
+    }
+    .otherLink h1 {
+        margin-bottom: 12px;
+    }
+    .otherLink ul li {
+        padding-bottom: 8px;
+    }
+    .otherLink a.more {
+        margin: 0;
+        margin-top: 10px;
+    }
+    .white-container {
+        padding: 15px 0px;
+    }
+}
+
+@media all and (max-width: 1180px) {
+    .body-container,
+    .home-btm-slider {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+}
+
+@media all and (max-width: 1140px) {
+    .quickbox ul.menu li a {
+        line-height: 18px;
+        font-size: 16px;
+        padding-top: 9px;
+        padding-bottom: 9px;
+    }
+    .quickbox ul.menu li {
+        background-position: 0px 10px !important;
+    }
+}
+
+@media all and (max-width: 1100px) {
+    .gallery-right {
+        width: 35%;
+    }
+    .budget {
+        padding-top: 67px;
+    }
+    .external-link span {
+        display: block;
+        padding: 6px 14px 3px 0;
+    }
+    .header-right {
+        margin-right: 30px;
+    }
+    .mii-logo,
+    .sw-logo {
+        padding-top: 12px;
+    }
+    .external-link {
+        padding: 10px;
+    }
+    .inner-wrapper .left-menu {
+        width: 30%;
+    }
+    .inner-wrapper .inner-content {
+        width: 68%;
+    }
+    .pressbox a.more,
+    .otherLink a.more {
+        font-size: 80%;
+    }
+}
+
+@media all and (max-width: 1064px) {
+    .whatsNewLists ul:first-child,
+    .whatsNewLists ul:nth-child(2) {
+        padding-top: 15px;
+    }
+}
+
+@media all and (max-width: 1023px) {
+    .nav-wrapper ul li a {
+        padding: 0px 12px !important;
+        padding: 0 14px !important;
+    }
+    .nav-wrapper ul li:first-child a {
+        padding: 0px 17px 0px 17px !important;
+    }
+    .allocation,
+    .infocus,
+    .dea,
+    .tabs-boxes {
+        float: left;
+        margin-right: 2%;
+        width: 48%;
+        min-height: 330px;
+    }
+    .infocus {
+        position: relative;
+        padding-bottom: 80px;
+        min-height: 290px;
+        margin-bottom: 90px;
+    }
+    .budget {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        padding-top: 10px;
+        padding-left: 50%;
+        background-position: left center !important;
+    }
+    .budget p {
+        padding-bottom: 15px;
+        padding-top: 5px;
+    }
+}
+
+@media all and (max-width: 980px) {
+    .gtranslate {
+        position: relative;
+        right: 0px;
+        margin-bottom: 10px;
+    }
+    .whatsNewLists ul:first-child,
+    .whatsNewLists ul:nth-child(2) {
+        padding-top: 4px;
+    }
+    .whatsNewCaption h2 span {
+        display: none;
+    }
+}
+
+@media all and (max-width: 940px) {
+    .header-right {
+        display: none
+    }
+    .logo img {
+        width: 64px;
+    }
+    .toggle-nav-bar {
+        display: block;
+        right: 20px;
+        position: absolute;
+        bottom: 20px;
+    }
+    .logo {
+        min-height: 76px;
+    }
+    .whatsNewLists .view-all {
+        position: relative;
+    }
+    /*===========responsive nav ===========*/
+    /*responsive nav theme*/
+    .nav-wrapper {
+        height: auto;
+    }
+    .nav-wrapper ul li {
+        float: none;
+    }
+    #nav ul {
+        margin-left: 0;
+    }
+    .nav-wrapper ul ul {
+        width: 100%;
+    }
+    .toggle-nav-bar .menu-icon {
+        width: 25px;
+        height: 20px;
+        background: url(../images/toggle-bar.png) no-repeat;
+    }
+    .toggle-nav-bar span {
+        color: #000;
+        display: block;
+        text-transform: uppercase;
+        font-size: 61%;
+        line-height: 20px;
+        font-weight: 600;
+    }
+    .menu-name-main-menu>#nav {
+        display: none
+    }
+    .nav-wrapper ul ul ul {
+        left: 0;
+    }
+    .nav-wrapper ul ul li a:hover {
+        color: #fff;
+    }
+    .nav-wrapper ul li:first-child a {
+        padding: 0px 14px 0px 14px !important;
+    }
+    #nav li {
+        background: #337585;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    }
+    #nav li a {}
+    ul#nav ul#nav {
+        position: relative;
+        border-top: 1px solid #2b6776;
+    }
+    .responsive-toggle {
+        border-left: 1px solid rgba(0, 0, 0, 0.2);
+        background: rgba(0, 0, 0, 0.3);
+        position: absolute;
+        right: 0;
+        top: 0px;
+        width: 60px;
+        height: 40px;
+        z-index: 3;
+        cursor: pointer;
+        display: block;
+    }
+    .responsive-toggle p {
+        width: 8px;
+        height: 8px;
+        line-height: 8px;
+        margin: auto;
+        display: block;
+        left: 0px;
+        right: 0px;
+        top: 0px;
+        bottom: 0px;
+        position: absolute;
+        color: #fff;
+    }
+    .menu.responsive-open {
+        display: block !important;
+    }
+    .nav-wrapper ul ul li a {
+        line-height: 38px;
+    }
+    .nav-wrapper ul li.open ul li a {
+        color: #fff;
+    }
+    .responsive-open li a {
+        /*background: #4898ab;*/
+    }
+    .responsive-open li.expanded>a {
+        /*background: #337585;*/
+    }
+    .responsive-open li:last-child {
+        border-bottom: none !important;
+    }
+    .sub-menu i {
+        color: #fff;
+    }
+    .mid-bg-wrapper .body-container {
+        padding: 50px 0 5px;
+    }
+    .minister-panel {
+        float: none;
+        width: 100%;
+        /*margin-left: -10%;
+	margin-right: -10%;
+	padding-left: 10%;
+	padding-right: 10%;*/
+    }
+    .top-left-panel {
+        float: none;
+        width: 100%;
+    }
+    .minister-panel .min-box {
+        padding: 0px 10px;
+    }
+    .press-relese a.btn-view-all {
+        margin-top: 20px;
+    }
+    .updates a.btn-view-all {
+        margin-top: 55px;
+    }
+    .budget {
+        padding-left: 56%;
+    }
+    .gallery-holder ul.slides {
+        float: none;
+        padding: 1px;
+        width: 100%;
+    }
+    .gallery-holder ol.flex-control-nav.flex-control-thumbs {
+        float: none;
+        margin: 10px 0 0 0;
+        padding: 0;
+        width: 100%;
+    }
+    .gallery-holder .flex-control-thumbs li {
+        margin: 0 2% 0 0px;
+        padding: 0;
+        float: left;
+        width: 32%;
+    }
+    .gallery-holder .flex-control-thumbs li:last-child {
+        margin-right: 0px;
+    }
+    .external-link span {
+        background-size: auto !important;
+        display: block;
+        padding: 6px 35px 3px 0;
+    }
+    .inner-wrapper .left-menu {
+        width: 35%;
+    }
+    .inner-wrapper .inner-content {
+        width: 63%;
+    }
+    .pad37 {
+        padding: 0;
+    }
+    .minister-panel,
+    .top-left-panel {
+        margin-bottom: 25px;
+    }
+    .gallery-area h3 {
+        font-size: 118%;
+        padding: 3px 15px;
+    }
+    .gallery-area a {
+        font-size: 80%;
+        padding: 6px 10px;
+    }
+    /*==========  Added on 06-10-2015 ===========*/
+    .nav-wrapper ul li.menu-mlid-218 a {
+        background-position: 14px 50% !important;
+    }
+    .nav-wrapper ul li.menu-mlid-218:hover a {
+        background-repeat: no-repeat !important;
+        background-position: 14px 50% !important;
+    }
+    .quickbox ul.menu li a {
+        line-height: 18px;
+        font-size: 14px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+    .quickbox ul.menu li {
+        background-position: 0px 10px !important;
+    }
+    .top-left-panel h2 {
+        font-size: 134%;
+    }
+    .quickbox h2 {
+        padding-top: 10px;
+    }
+    .pressbox {
+        margin-right: 0;
+        padding-left: 0;
+    }
+    .pressbox a.more,
+    .otherLink a.more {
+        margin: 9px 0px 7px;
+    }
+    .top-bg-wrapper ul li,
+    ul.list-style2 li {
+        font-size: 90%;
+    }
+    .bluebox h1 {
+        font-size: 19px;
+        margin-bottom: 11px;
+    }
+    .eServices,
+    .dataServices {
+        min-height: 250px;
+    }
+    .minister-panel {
+        padding: 31px 0px;
+    }
+    .gallery-container {
+        padding: 15px 0px;
+    }
+    #quicktabs-container-home_gallery_landing #quicktabs-tabpage-home_gallery_landing-1 ul.list-gallery li .views-field-field-image {
+        margin-right: 10px;
+    }
+    #quicktabs-container-home_gallery_landing #quicktabs-tabpage-home_gallery_landing-1 ul.list-gallery li p {
+        margin-left: 0px;
+    }
+    .top-left-panel.clearfix {
+        margin-top: 20px;
+    }
+    .nav-wrapper ul li span.nolink {
+        padding: 0px 15px !important;
+    }
+    #nav ul.navblock {
+        display: none;
+    }
+    .footer-top-wrapper ul li a {
+        padding: 0px 8px;
+    }
+}
+
+@media all and (max-width: 870px) {
+    .otherLink a.more {
+        position: relative
+    }
+}
+
+@media all and (max-width: 870px) {
+    .whatsNewLists .view {
+        width: 87%;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .whatsNewLists a {
+        margin-top: 18px;
+    }
+    .float-element {
+        display: none;
+    }
+    .right-content {
+        display: none;
+    }
+    .press-relese {
+        width: 100%;
+        float: none;
+        border-bottom: 1px solid #c4c4c4;
+        padding-bottom: 30px;
+    }
+    .updates {
+        width: 100%;
+        float: none;
+        margin-top: 40px;
+    }
+    .press-relese ul li {
+        min-height: 45px;
+    }
+    .press-relese a.btn-view-all {
+        margin-top: 30px;
+    }
+    .allocation,
+    .infocus,
+    .dea,
+    .tabs-boxes {
+        width: 100%;
+        float: none;
+        min-height: 0px;
+        margin-bottom: 30px;
+    }
+    .allocation ul.list-style2 li,
+    .dea ul.list-style2 li {
+        width: 50%;
+        padding-right: 2%;
+        float: left;
+    }
+    .tabs-box {
+        width: 47%;
+        float: left;
+        margin-right: 5%;
+    }
+    .tabs-box:last-child {
+        margin-right: 0px;
+    }
+    .gallery-area {
+        float: none;
+        position: relative;
+        width: 100%;
+    }
+    .external-links {
+        float: none;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .external-link {
+        float: left;
+        width: 24%;
+        margin-right: 1%;
+    }
+    .updates a.btn-view-all,
+    a.btn-view-all {
+        margin-top: 20px;
+    }
+    .inner-wrapper .left-menu {
+        width: 40%;
+    }
+    .inner-wrapper .inner-content {
+        width: 58%;
+    }
+    .footer-top-wrapper ul li {
+        width: 30.33%;
+    }
+    .eServices,
+    .dataServices {
+        min-height: 289px;
+    }
+    .inner-content h2 {
+        font-size: 173%;
+        padding-bottom: 4px;
+    }
+    .form_outer .form_row input[type="text"],
+    .form_outer .form_row input[type="email"],
+    textarea,
+    select {
+        width: 100%;
+    }
+    .subheadTxt {
+        padding-bottom: 12px !important;
+    }
+    .view-whos-who .views-exposed-widgets .views-exposed-widget {
+        display: inline-block;
+        width: 100%;
+    }
+    .footer-top-wrapper ul li {
+        text-align: left;
+        margin-bottom: 10px;
+    }
+    .footer-top-wrapper ul li::before {
+        display: none;
+    }
+}
+
+@media all and (max-width: 700px) {
+    .whatsNewLists .view {
+        width: 85%;
+    }
+}
+
+@media all and (max-width: 640px) {
+    .allocation ul.list-style2 li,
+    .dea ul.list-style2 li {
+        float: none;
+        padding-right: 0px;
+        width: 100%;
+    }
+    .tabs-box {
+        float: none;
+        margin-right: 0px;
+        width: 100%;
+    }
+    .external-link {
+        float: left;
+        margin-right: 1%;
+        width: 49%;
+    }
+    .inner-wrapper .left-menu {
+        width: 100%;
+        float: none;
+    }
+    .inner-wrapper .inner-content {
+        width: 100%;
+        float: none;
+    }
+    .left-menu ul {
+        border: none;
+        padding: 0px;
+        margin-bottom: 10px;
+    }
+    .quickbox,
+    .pressbox {
+        width: 100%;
+        display: block;
+    }
+    .pressbox {
+        margin-top: 25px;
+        margin-right: 0;
+    }
+    .whatsNewLists .view,
+    .whatsNewLists ul .warp-3-col {
+        width: 100%;
+    }
+    .whatsNewLists a {
+        font-size: 98%;
+        margin-top: 10px;
+    }
+    .whatsNewLists ul {
+        padding-left: 0px;
+        padding-top: 6px;
+        padding-bottom: 0px;
+        width: 100%;
+    }
+    .whatsNewLists ul:first-child,
+    .whatsNewLists ul:nth-child(2) {
+        padding-top: 10px;
+    }
+    .whatsNewCaption h2 {
+        font-size: 17px;
+    }
+    .minister-panel {
+        padding: 10px 0px;
+    }
+    .quickbox ul.menu li a {
+        line-height: 31px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .quickbox ul.menu li {
+        background-position: 0px 10px !important;
+    }
+    .quickbox h2 {
+        padding-top: 5px;
+    }
+    .top-left-panel h2 {
+        font-size: 131%;
+    }
+    .pressbox {
+        margin-top: 13px;
+    }
+    ul.overview li a {
+        font-size: 13px;
+    }
+    .pressbox a.more,
+    .otherLink a.more {
+        margin-bottom: 8px;
+    }
+    .bluebox h1 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .top-bg-wrapper ul li,
+    ul.list-style2 li {
+        font-size: 90%;
+    }
+    .eServices a.more {
+        margin-top: 7px;
+    }
+    .eServices,
+    .dataServices {
+        padding: 7px 20px;
+    }
+    .dataServices {
+        margin-top: 12px;
+    }
+    .gallery-container {
+        padding: 16px 0px;
+    }
+    .external-links {
+        margin-top: 10px;
+    }
+    .otherLink h1,
+    .otherLink h2 {
+        font-size: 18px;
+    }
+    .bluebox ul,
+    .bluebox ul li,
+    .otherLink ul,
+    .otherLink ul li {
+        font-size: 13px;
+    }
+    .left-menu ul li {
+        margin-bottom: 6px;
+    }
+    .left-menu ul li a {
+        background-position: 9px 12px;
+        padding: 6px 0px 6px 30px;
+    }
+    .left-menu ul li:hover a,
+    .left-menu ul li a.active {
+        background-position: 9px 12px;
+    }
+    .left-menu ul li:hover ul li a,
+    .left-menu ul li.active ul li a,
+    .left-menu ul li ul li:hover a,
+    .left-menu ul li ul li.active a {
+        background-position: 9px 12px;
+    }
+    .left-menu ul li ul li a:hover {
+        background-position: 9px 12px;
+        text-decoration: underline;
+    }
+    .inner-content p {
+        font-size: 96%;
+    }
+    .inner-content ul li {
+        font-size: 96%;
+    }
+    ul.menu li {
+        margin: 0px;
+    }
+    li.expanded,
+    li.collapsed,
+    li.leaf {
+        padding: 0px;
+    }
+    .guide-text {
+        margin-bottom: 0px;
+    }
+    .inner-content {
+        padding-bottom: 5px;
+    }
+    .page-gallery-landing ul.quicktabs-tabs li a {
+        padding: 7px 20px;
+    }
+    .left-menu h3 {
+        margin-right: 0px !important;
+    }
+    .inner-wrapper .left-menu {
+        border-right: none;
+    }
+    .inner-wrapper .left-menu {
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-right: none;
+    }
+    .inner-wrapper .inner-content {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    .common-left {
+        display: none
+    }
+}
+
+@media all and (max-width: 639px) {
+    /*ul#nav:first-child {
+    top: 110px;
+}*/
+    .logo {
+        background-position: 0 0;
+        background-size: 16% auto !important;
+        font-size: 100%;
+        min-height: 56px;
+        padding: 5px 0 0 10px;
+    }
+    .logo img {
+        width: 48px;
+    }
+    .toggle-nav-bar {
+        bottom: 9px;
+    }
+    .eServices,
+    .dataServices {
+        width: 100%;
+        display: block;
+        padding: 15px 20px;
+        min-height: 0px;
+    }
+    .eServices,
+    .dataServices {
+        border-left: 0;
+        margin-top: 20px;
+    }
+    .pressbox {
+        padding-left: 0px;
+    }
+    footer .footer_toggle_menu {
+        display: block;
+    }
+    footer .footer_toggle_menu {
+        display: block;
+        color: #000;
+        box-sizing: border-box;
+        font-size: 1em;
+        padding: 5px 0px 5px 0px;
+    }
+    .rmm-toggled-controls {
+        color: #FFF;
+        display: block;
+        height: 36px;
+        position: relative;
+        text-align: left;
+    }
+    .rmm-toggled-title {
+        margin-left: 0px;
+        position: relative;
+        top: 8px;
+        font-size: 1.2em;
+    }
+    .rmm-button {
+        display: block;
+        position: absolute;
+        right: 0px;
+        top: 7px;
+    }
+    .rmm-button span {
+        background: #FFF;
+        display: block;
+        height: 2px;
+        margin: 4px 0px;
+        width: 25px;
+    }
+    .footer-top-wrapper ul li {
+        width: 50%;
+        text-align: left;
+        padding-bottom: 3px;
+        margin-bottom: 6px;
+        display: block;
+    }
+    .gtranslate {
+        float: none;
+        margin-top: 0;
+        border-left: none;
+    }
+    .logo-cmf,
+    .copyright-content {
+        float: none;
+        text-align: center;
+    }
+}
+
+@media all and (max-width: 480px) {
+    .gallery-holder .flex-control-thumbs li {
+        margin: 4px 8px 0 0;
+        padding: 0;
+        width: 31%;
+    }
+    .gallery-holder ol.flex-control-nav.flex-control-thumbs {
+        float: left;
+        margin: 0 0 0 1%;
+        padding: 0;
+        width: 100%;
+    }
+    .gallery-holder ul.slides {
+        float: left;
+        padding: 1px;
+        width: 100%;
+    }
+    .gallery-heading {
+        float: left;
+        left: 1px;
+        position: absolute;
+        top: 1px;
+        z-index: 99999;
+    }
+    .gallery-holder .flex-control-thumbs li:last-child {
+        margin: 4px 0 0;
+    }
+    .item-list ul.pager {
+        padding-left: 0 !important;
+    }
+    .item-list ul.pager li {
+        padding: 5px 8px;
+    }
+    .block-webspeech button {
+        font-size: .9em;
+    }
+    .otherLink ul .warp-3-col {
+        width: 100%;
+    }
+    .common-right ul li.ico-skip {
+        display: none
+    }
+}
+
+@media all and (max-width: 400px) {
+    .minister-panel .min-box {
+        padding: 10px 0px;
+    }
+    .budget {
+        background-position: center top !important;
+        padding-left: 0;
+        padding-top: 93px;
+    }
+    .infocus {
+        padding-bottom: 148px;
+    }
+    .mid-bg-wrapper .body-container {
+        padding: 50px 0 25px;
+    }
+}
+
+@media all and (max-width: 376px) {
+    .views-submit-button input[type="submit"] {
+        margin-top: 12px !important;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .flexslider .slides li figure {
+        width: 50%;
+    }
+}
+
+/*=======================forced fixing=======================*/
+
+@media (min-width: 490px) and (max-width: 495px) {
+    .external-link {
+        font-size: 112%;
+    }
+    .external-link span {
+        background-size: contain !important;
+    }
+}
+
+@media print {
+    /*aside#sidebar,header[role="banner"],footer,#comments,#respond {
+        display: none;
+    }*/
+    .flex-viewport {
+        max-height: 360px;
+        vertical-align: top;
+        overflow: hidden;
+    }
+    .not-front .flex-viewport {
+        max-height: 160px;
+        vertical-align: top;
+    }
+    .flexslider {
+        margin-top: 0px;
+        vertical-align: top;
+    }
+    .nav-wrapper {
+        border-top: 1px solid #242424
+    }
+    .header-right,
+    .nav-container {
+        display: none;
+    }
+    .region-header-top,
+    .carousel-wrapper,
+    .left-menu,
+    .guide-text,
+    .footer-top-wrapper,
+    .header-right,
+    .toggle-nav-bar span,
+    .flex-pauseplay a,
+    .otherLink a.more,
+    .pressbox a.more,
+    .otherLink a.more,
+    .eServices a.more,
+    .whatsNewLists .view-all,
+    .flex-direction-nav a,
+    .flex-pauseplay a:before {
+        display: none
+    }
+    table tr th {
+        border: 1px solid #ccc
+    }
+    .quickbox,
+    .minister-panel {
+        float: none !important;
+        display: table-cell;
+        width: 100% !important
+    }
+    .quickbox,
+    .quickbox ul.menu,
+    .quickbox ul.menu li a,
+    .minister-panel {
+        width: 100% !important
+    }
+    .pressbox {
+        float: none !important;
+        display: table-row !important;
+        width: 100% !important
+    }
+    .inner-wrapper .inner-content {
+        width: 100%
+    }
+    .whatsNewCaption h2 {
+        font-size: 178%;
+        text-align: left;
+        padding-left: 15px;
+        padding-right: 15px
+    }
+    .whatsNewCaption {
+        background: #284c54;
+    }
+}
